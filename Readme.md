@@ -1,20 +1,19 @@
 <!-- Node js :  -->
-git checkout nodejs-assignment
+git checkout nodejs-programming
 git add Nodejs-assignment/
-git commit -m "NodeJS Assignment Update - 21 Jan 2026"
-git push origin nodejs-assignment
-
+git commit -m "NodeJS Assignment Update - 22 Jan 2026"
+git push origin nodejs-programming
 
 <!-- classroom :  -->
-git checkout classroom-practice
+git checkout file-system-operations
 git add Classroom-practice/
-git commit -m "Classroom Practice Update - 21 Jan 2026"
-git push origin classroom-practice
+git commit -m "Classroom Practice Update - 22 Jan 2026"
+git push origin file-system-operations
 <!-- 
 git status
 git branch -->
 <!-- MAIN -->
 git checkout main
-git add .
+git add Readme.md
 git commit -m "Daily Update - Day 33"
 git push origin main
