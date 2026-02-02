@@ -139,3 +139,15 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+# Ignore dependency folders
+node_modules/
+
+# Ignore local environment variables
+.env
+
+# Ignore VS Code configuration folder
+.vscode/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
