@@ -48,3 +48,8 @@
 12/2/2026, 11:52:06 am | GET | /students
 12/2/2026, 11:53:19 am | GET | /
 12/2/2026, 11:53:23 am | GET | /students
+12/2/2026, 2:57:49 pm | GET | /
+12/2/2026, 2:57:51 pm | GET | /favicon.ico
+12/2/2026, 2:58:03 pm | POST | /students/register
+12/2/2026, 2:58:05 pm | GET | /
+12/2/2026, 2:58:06 pm | GET | /students
