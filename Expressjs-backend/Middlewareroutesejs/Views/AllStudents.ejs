@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>All Students</title>
+</head>
+<body>
+    <h1>All Students</h1>
+    <ul>
+        <% students.forEach(function(s) { %>
+            <li><%= s.id %> - <%= s.name %> - <%= s.branch %></li>
+        <% }); %>
+    </ul>
+    <a href="/">Go Back</a>
+</body>
+</html>

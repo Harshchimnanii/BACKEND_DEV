@@ -1,0 +1,9 @@
+{
+  "name": "middlewareroutesejs",
+  "version": "1.0.0",
+  "main": "Middlewareroutes.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "ejs": "^3.1.9"
+  }
+}
